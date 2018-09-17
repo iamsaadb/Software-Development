@@ -1,0 +1,6 @@
+Link to youtube: https://www.youtube.com/watch?v=iF0rkulFSic
+
+For some reasons, the jar doesn't play the background sound on my laptop.
+On the video, I show that my game plays background music when it compiles on NetBeans.
+
+Thank you.
